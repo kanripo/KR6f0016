@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說幻士仁賢經
+#+DATE: 2015-08-30 20:00:57.297537
+#+PROPERTY: JUAN 0

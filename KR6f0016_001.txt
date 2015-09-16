@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:57.085963
+#+DATE: 2015-08-30 20:00:58.821320
 #+TITLE: 佛說幻士仁賢經
 #+PROPERTY: CBETA_ID T12n0324
 #+PROPERTY: ID KR6f0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 324
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0016_T_000-0031a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0016_T_001-0031a> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.324[No.310(21)]¶
-
- 佛說幻士仁賢經¶
+No. 324 [No. 310(21)]¶
+佛說幻士仁賢經¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
@@ -116,7 +115,7 @@ No.324[No.310(21)]¶
 於時，目連在眾會¶
 前，稽首作禮白佛言：「唯然，世尊！我等為得¶
 善利。所以者何？世尊威神巍巍如是大尊無¶
-極。」其人民聞佛如來此變化者，歡喜踊躍逮¶
+極。」其人民聞佛如來此變化者，歡喜誦躍逮¶
 得善利，便發無上正真道意，一時欣然功德¶
 無量。
 
